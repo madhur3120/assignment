@@ -1,15 +1,18 @@
 # assignment
 
-Install all the dependencies - 
-npm i express ejs nodemon mysql
+1. Install all the dependencies - 
 
-Run index.js file via nodemon - 
-nodemon index.js
+      ``npm i express ejs nodemon mysql``
 
-Open a tab in browser and go to http://localhost:4000/
+2. Run index.js file via nodemon - 
 
-Enter the required data in the form.
+      ``nodemon index``
 
-The names will be fetched from the database and can be seen in - 
-http://localhost:4000/details
+3. Open a tab in browser and go to ``http://localhost:4000/``
+
+4. Enter the required data in the form.
+
+5. The names will be fetched from the database and can be seen in - 
+
+      ``http://localhost:4000/details``
 
